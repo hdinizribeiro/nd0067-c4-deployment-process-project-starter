@@ -2,12 +2,11 @@
 
 This application is a custom app that creates a feed with images similar to instagram, where the user can register and login to the system create new Posts to the feed uploading image and also check all posts in its own feed.
 
-
+![working-application](docs/img/screenshots/working-app.png)
 
 
 Link to application:
-http://hdiniz-udagram.s3-website.us-east-2.amazonaws.com/home
-
+http://hdinizudagram.s3-website-us-west-2.amazonaws.com/
 
 
 ## Project Setup

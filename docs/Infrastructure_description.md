@@ -19,3 +19,11 @@
 ### Bucket
 
 ![bucket-screenshot](img/screenshots/s3-bucket.png)
+
+### Elastic beanstalk
+
+![elastic-beanstalk](img/screenshots/elastic-beanstalk.png)
+
+### AWS RDS
+
+![aws-rds](img/screenshots/aws-rds.png)

@@ -34,3 +34,6 @@ This phase is dedicated to deploy the application to S3 and Elastic Beanstalk (c
 
 3. Frontend Deploy: Deploy the Frontend to AWS S3
 
+# Circle CI
+
+![circle-ci](img/screenshots/circleci-success.png)
